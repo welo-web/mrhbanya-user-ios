@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931572730656",
+    "project_id": "mrhbanya-welo",
+    "storage_bucket": "mrhbanya-welo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931572730656:android:a7587782122e5aa64fa545",
+        "android_client_info": {
+          "package_name": "com.mrhbanya.user.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKp5KwtiGq9niTaQso8WxfAaL6ZYtR3bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
